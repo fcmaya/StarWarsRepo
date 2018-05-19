@@ -2,4 +2,3 @@ Anderaan
 Coruscant
 Endor
 Hoth
-Terra
