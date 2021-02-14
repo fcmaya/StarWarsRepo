@@ -4,3 +4,5 @@ Master Yoda
 Chewbacca
 Han Solo
 Jabba the Hutt
+
+Finn
